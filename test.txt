@@ -1,3 +1,9 @@
 asdasdasd
 aaaaa
-asdasdsadasd
+<<<<<<< HEAD
+
+asdasdasd
+=======
+
+asdasdasd
+>>>>>>> dec
